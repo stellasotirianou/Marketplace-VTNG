@@ -9,11 +9,12 @@ Home Page (Video background)
 
 SignUp Page
 
-![image](https://user-images.githubusercontent.com/63256968/111877419-03703e80-89ac-11eb-9043-ff621389bc40.png)
+![image](https://user-images.githubusercontent.com/63256968/111877550-8b564880-89ac-11eb-9fa0-d9730779a326.png)
 
 Log In Page
 
-![image](https://user-images.githubusercontent.com/63256968/111877435-0f5c0080-89ac-11eb-9f53-e34e3c48b007.png)
+![image](https://user-images.githubusercontent.com/63256968/111877597-b50f6f80-89ac-11eb-8f93-5cff456f9e93.png)
+
  
 Products and Boutique Catalog
 
