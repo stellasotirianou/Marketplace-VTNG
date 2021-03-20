@@ -47,26 +47,26 @@
 
     <div class="wrapper">
         
-    <nav id="sidebar">
+     <nav id="sidebar">
             <div class="sidebar-header">
                 <h3>VNTG Admin Panel</h3>
                 <strong>AP</strong>
             </div>
 
             <ul class="list-unstyled components">
-                <li class="active">
+                <li >
                     <a href="admin_new.php"  aria-expanded="false" class="dropdown-toggle">
                         <i class="fas fa-tachometer-alt"></i>
                         Dashboard
                     </a>
                 </li>
-                <li>
+                <li class="active">
                     <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
                         <i class="fas fa-plus"></i>
                         Add
                     </a>
                     <ul class="collapse list-unstyled" id="pageSubmenu">
-                        <li>
+                        <li class="active">
                             <a href="add_product.php">Product</a>
                         </li>
                         <li>
