@@ -24,7 +24,7 @@ Products and Boutique Catalog
 
 Admin Panel 
 
-![Καταγραφή](https://user-images.githubusercontent.com/63256968/111877504-5e099a80-89ac-11eb-8894-fb02c9adefb6.PNG)
+![Καταγραφή2](https://user-images.githubusercontent.com/63256968/111877720-36ff9880-89ad-11eb-8f9c-05702657a81a.PNG)
 
 
 Chatbot
